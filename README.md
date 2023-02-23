@@ -3,23 +3,21 @@
 Downlaod cloudera
 https://drive.google.com/file/d/1WzYxDmaRnJUpAGhZcdl8WXlyc6NClDUe/view?usp=sharing
 
-Download VM 
 
+Download VM 
 https://www.virtualbox.org/wiki/Downloads
 
 
 Putty Downlaod
-
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 
 File Zilla dowonload
-
 https://filezilla-project.org/download.php?platform=win64
 
 FOR MAC 
 
-Hi, for mac m1, try to go with below lsited steps.
+For Mac, try to go with below lsited steps.
 Go on to your terminal                  
 1. docker ps - To list running docker containers
 2. docker pull cloudera/quickstart:latest - To pull docker image from repository
